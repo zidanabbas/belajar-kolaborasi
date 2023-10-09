@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-latihan kolaborasi di dicoding
+latihan kolaborasi di dicoding academy dengan squashing dan merge
