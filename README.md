@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-latihan kolaborasi
+Belajar github di dicoding dengan latihan kolaborasi
