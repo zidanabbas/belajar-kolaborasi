@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-latihan kolaborasi
+latihan kolaborasi di dicoding
