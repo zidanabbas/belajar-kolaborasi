@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-latihan github di dicoding academy dengan squashing and merge pada course github dasar
+Mempelajari squash dan merge di github sesuai dengan course yang diberikan oleh dicoding academy
